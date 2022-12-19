@@ -1,0 +1,47 @@
+h2[class=subtitle]{
+    color: Black;
+}
+.title {
+    color: black;
+}
+.subtitle {
+    color: black;
+}
+#briansWebsite {
+    color: black;
+}
+h1 + p {
+    color: black;
+}
+
+body {
+    background-color: rgb(165, 255, 251);
+    color: black;
+    list-style-position: inside;
+    text-align: center;
+}
+html {
+    font-size: 22px;
+    color: black;
+}
+table, tr, th, td, caption {
+    border: 1px solid rgb(0, 0, 0);
+    font-family: 'Courier New';
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+ul > li {
+    color: rgb(7, 7, 7);
+}
+#top-image {
+    height: 300px;
+    width: 70vw;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+input[type="text"] {
+    width: 120px;
+    height: 20px;
+}
